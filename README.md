@@ -1,6 +1,7 @@
 #Tweetalizer
 
 For the A2Pyladies Refactoring workshop: http://www.meetup.com/Ann-Arbor-PyLadies/events/219765448/
+Check out the different branches to see a step by step refacor
 
 ##Does the following:
 
